@@ -16,5 +16,9 @@ path {
   cursor: pointer;
 }
 path:hover {
-  fill: deepskyblue;
+  fill: green;
+}
+
+.IN:hover{
+  fill: red;
 }
